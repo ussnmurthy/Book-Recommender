@@ -10,3 +10,5 @@ transformers
 gradio
 ipywidgets
 pysqlite3-binary
+tensorflow
+tf-keras
