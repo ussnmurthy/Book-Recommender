@@ -9,3 +9,4 @@ langchain-chroma
 transformers
 gradio
 ipywidgets
+pysqlite3-binary
